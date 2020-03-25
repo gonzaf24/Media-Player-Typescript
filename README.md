@@ -11,6 +11,7 @@ npm install -D parcel-bundler
 <h3>Luego iniciar el server</h3>
 <p>para iniciar , es recomendable borrar dos carpetas pereviamente, con el siguiente comando:</P>
  rm -rf .cache dist
+ <br>
 <p>luego si iniciar: </p> 
 npm start
 <br><br>
