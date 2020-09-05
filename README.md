@@ -15,5 +15,11 @@ npm install -D parcel-bundler
 <p>luego si iniciar: </p> 
 npm start
 <br><br>
+
+Captura de pantalla:
+<br><br>
+
+<img src="https://alchimia.s3.us-east-2.amazonaws.com/utils/mediaplayerTypeScript.png">
+
  gonzi
  
